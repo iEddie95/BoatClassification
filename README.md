@@ -1,1 +1,1 @@
-# BoatClassification
+# Boat Type Classification
